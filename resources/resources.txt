@@ -1,0 +1,9 @@
+Youtube Channels:
+Philip Lackner -->https://www.youtube.com/@PhilippLackner
+Codepur -->https://www.youtube.com/@HelloCodepur
+CheezyCodes--->https://www.youtube.com/@CheezyCode
+
+Documentation links:
+
+Kotlin--->https://kotlinlang.org/docs/home.html
+Jetpack Compose --> https://developer.android.com/jetpack/compose/documentation
